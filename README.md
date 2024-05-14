@@ -2,9 +2,11 @@
 
 All the essential 3D (.stl) files required to build your own deluxe Wrist Thrower from Ghostbusters: Frozen Empire. Designed for use with the EctoLabs Wrist Thrower Light and Sound Kit available to purchase here:
 
-[www.ectolabs.net/wrist-thrower](https://www.ectolabs.net/wrist-thrower)
+[www.ectolabs.net/products/wrist-thrower](https://www.ectolabs.net/products/wrist-thrower)
+
 
 ![Wrist Thrower](https://github.com/EctoLabs/wrist-thrower/blob/main/wrist-thrower.jpg)
+
 
 ## What's Included:
 
