@@ -4,9 +4,9 @@ All the essential 3D (.stl) files required to build your own deluxe Wrist Throwe
 
 [www.ectolabs.net/products/wrist-thrower](https://www.ectolabs.net/products/wrist-thrower)
 
-
+(<br>)
 ![Wrist Thrower](https://github.com/EctoLabs/wrist-thrower/blob/main/wrist-thrower.jpg)
-
+(<br>)
 
 ## What's Included:
 
