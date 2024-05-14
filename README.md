@@ -14,16 +14,6 @@ These file are intended to be used in conjunction with as many real-world parts 
   
   ### Heading
   1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
 <br/><br/>
 ## Credits
