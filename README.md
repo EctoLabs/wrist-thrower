@@ -25,4 +25,4 @@ Thrower main body and shroud modified from 'wanQer MK1' by Quentin Machiels - ht
 
 All files are provided for free under a Creative Commons (Attribution, Non-Commercial, ShareAlike) licence. Material may be copied, redistributed, remixed, transformed and built upon providing appropriate credit is given under the same licence. You may NOT use any of these files for commercial purposes.
 
-[<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/1280px-Cc-by-nc-sa_icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/1280px-Cc-by-nc-sa_icon.svg.png)">](http://example.com/)
+![CC](https://raw.githubusercontent.com/creativecommons/cc-assets/376ad270952f9c34542ffc3d4a19d689fa2a7586/license_badges/small/by_nc_sa.svg)
