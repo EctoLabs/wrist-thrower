@@ -1,6 +1,6 @@
 # Wrist Thrower - 3D Print Files
 All the essential 3D (.stl) files required to build your own deluxe Wrist Thrower from Ghostbusters: Frozen Empire. Designed for use with the EctoLabs Wrist Thrower Light and Sound Kit available to purchase here:
-<br/>
+<br/><br/>
 [www.ectolabs.net/products/wrist-thrower](https://www.ectolabs.net/products/wrist-thrower)
 <br/><br/>
 ![Wrist Thrower](https://github.com/EctoLabs/wrist-thrower/blob/main/wrist-thrower.jpg)
@@ -17,5 +17,5 @@ Thrower main body and shroud modified from 'wanQer MK1' by Quentin Machiels - ht
 <br/><br/>
 ## License
 All files are provided for free under a Creative Commons (Attribution, Non-Commercial, ShareAlike) licence. Material may be copied, redistributed, remixed, transformed and built upon providing appropriate credit is given under the same licence. You may NOT use any of these files for commercial purposes.
-<br/>
+<br/><br/>
 [![CC](https://raw.githubusercontent.com/creativecommons/cc-assets/376ad270952f9c34542ffc3d4a19d689fa2a7586/license_badges/small/by_nc_sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
