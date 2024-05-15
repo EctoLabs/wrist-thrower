@@ -11,12 +11,19 @@ These file are intended to be used in conjunction with as many real-world parts 
 ## Build Guide
 <details>
   <summary>&nbsp;&nbsp;<strong>Printing the files</strong></summary>
-  $\color{green}{test}$We recommend printing each model using the default orientaion set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any  lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, disabling the 'Inteface' option will make removing the support material much easier.
+  <br />We recommend printing each model using the default orientaion set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, disabling the 'Inteface' options will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
 </details>
 <details>
-  <summary>&nbsp;&nbsp;<strong>Smoothing & Painting</strong></summary>
-  World!
-</details><br/>
+  <summary>&nbsp;&nbsp;<strong>Smoothing</strong></summary>
+   <br />Everyone has their own methods for smoothing out 3D prints, but we always have good results by first brushing on a layer of clear jeweller's UV resin before curing with a UV light. This will fill in most of the visible layer lines and can be sanded down with 240 grit sandpaper. We then follow this with a couple of coats of filler primer, wet sanding with 800 grit sandpaper between each coat until every surface is smooth to the touch.<br /><br />
+</details>
+<details>
+  <summary>&nbsp;&nbsp;<strong>Fake welds</strong></summary>
+   <br />Everyone has their own methods for smoothing out 3D prints, but we always have good results by first brushing on a layer of clear jeweller's UV resin before curing with a UV light. This will fill in most of the visible layer lines and can be sanded down with 240 grit sandpaper. We then follow this with a couple of coats of filler primer, wet sanding with 800 grit sandpaper between each coat until every surface is smooth to the touch.<br /><br />
+</details>
+
+
+<br/>
 
 ## Credits
 Original 3D CAD models by Dave Tremaine @ EctoLabs.\
