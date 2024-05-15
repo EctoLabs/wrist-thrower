@@ -11,7 +11,7 @@ These file are intended to be used in conjunction with as many real-world parts 
 ## Build Guide
 <details>
   <summary>&nbsp;&nbsp;<strong>Printing the files</strong></summary>
-  We recommend printing each model using the default orientaion set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any  lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, disabling the 'Inteface' option will make removing the support material much easier. 
+  <span style="color:#CCCCCC;">We recommend printing each model using the default orientaion set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any  lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, disabling the 'Inteface' option will make removing the support material much easier.</span>
 </details>
 <details>
   <summary>&nbsp;&nbsp;<strong>Smoothing & Painting</strong></summary>
