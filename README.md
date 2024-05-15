@@ -10,11 +10,11 @@ These file are intended to be used in conjunction with as many real-world parts 
 
 ## Build Guide
 <details>
-  <summary>&nbsp;&nbsp;<strong>Hello</strong></summary>
+  <summary>&nbsp;&nbsp;<strong>Printing the files</strong></summary>
   World!
 </details>
 <details>
-  <summary>&nbsp;&nbsp;<strong>Hello</strong></summary>
+  <summary>&nbsp;&nbsp;<strong>Smoothing & Painting</strong></summary>
   World!
 </details><br/>
 
