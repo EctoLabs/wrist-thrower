@@ -9,29 +9,22 @@ All the essential 3D (.stl) files required to build your own deluxe Wrist Throwe
 These file are intended to be used in conjunction with as many real-world parts as possible to create a deluxe replica as close to the original movie prop as possible. Therefore, only the main elements of the thrower body, shroud and mini-cyclotron are included here. Please refer to the Build Guide for everything else you need to complete the build.<br/><br/>
 
 ## Print Settings
-We recommend printing each model using the default orientation set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, disabling the 'Support interface' option will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
+We recommend printing each model using the default orientation set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, <strong>disabling</strong> the 'Support interface' option will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
 
 ## Build Guide & Shopping List
 We have created a thread on the GBFans forum that documents our Wrist Thrower build, along with photos of each step. This also includes a shopping list containing all the materials and parts we used to complete our replica:
 
 [www.gbfans.com/forum](https://www.gbfans.com/forum)<br /><br />
 
-<details>
-  <summary>&nbsp;&nbsp;<strong>Smoothing</strong></summary>
-   <br />Everyone has their own methods for smoothing out 3D prints, but we always have good results by first brushing on a layer of clear jeweller's UV resin before curing with a UV light. This will fill in most of the visible layer lines and can be sanded down with 240 grit sandpaper. We then follow this with a couple of coats of filler primer, wet sanding with 800 grit sandpaper between each coat until every surface is smooth to the touch.<br /><br />
-</details>
-<details>
-  <summary>&nbsp;&nbsp;<strong>Fake welds</strong></summary>
-   <br />Everyone has their own methods for smoothing out 3D prints, but we always have good results by first brushing on a layer of clear jeweller's UV resin before curing with a UV light. This will fill in most of the visible layer lines and can be sanded down with 240 grit sandpaper. We then follow this with a couple of coats of filler primer, wet sanding with 800 grit sandpaper between each coat until every surface is smooth to the touch.<br /><br />
-</details>
+## Help and Support
+If you have any questions, or simply want to show off your build, you can join us on the official EctoLabs Facebook group:
 
-
-<br/>
+[www.facebook.com/groups/ectolabs](https://www.facebook.com/groups/ectolabs)<br /><br />
 
 ## Credits
 Original 3D CAD models by Dave Tremaine @ EctoLabs.\
-Thrower main body and shroud modified from 'wanQer MK1' by Quentin Machiels - https://github.com/mr-kiou/the_wanQer
-<br/><br/>
+Thrower main body and shroud modified from 'wanQer MK1' by Quentin Machiels - https://github.com/mr-kiou/the_wanQer<br/><br/>
+
 ## License
 All files are provided for free under a Creative Commons (Attribution, Non-Commercial, ShareAlike) licence. Material may be copied, redistributed, remixed, transformed and built upon providing appropriate credit is given under the same licence. You may NOT use any of these files for commercial purposes.
 <br/><br/>
