@@ -5,21 +5,21 @@ All the essential 3D (.stl) files required to build your own deluxe Wrist Throwe
 <br/><br/>
 ![Wrist Thrower](https://github.com/EctoLabs/wrist-thrower/blob/main/wrist-thrower.jpg)
 <br/><br/>
-## What's Included
+## What's included
 These file are intended to be used in conjunction with as many real-world parts as possible to create a deluxe replica as close to the original movie prop as possible. Therefore, only the main elements of the thrower body, shroud and mini-cyclotron are included here. Please refer to the Build Guide section below for everything else you need to complete the build.<br/><br/>
 
 ## How to download the files
-Simply click on the green '<> Code' button at the top of the page and then select 'Download ZIP' to download all of the .stl files to your computer in one single package.<br/><br/>
+Simply [click here](https://github.com/EctoLabs/wrist-thrower/archive/refs/heads/main.zip) to download all of the .stl files to your computer as a single ZIP.<br/><br/>
 
-## Print Settings
+## Print settings
 We recommend printing each model using the default orientation set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, <strong>disabling</strong> the 'Support interface' option will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
 
-## Build Guide & Shopping List
+## Build guide & shopping list
 We have created a thread on the GBFans forum that documents our Wrist Thrower build, along with photos of each step. This also includes a shopping list containing all the materials and parts we used to complete our replica:
 
 [www.gbfans.com/forum](https://www.gbfans.com/forum)<br /><br />
 
-## Help and Support
+## Help and support
 If you have any questions, or simply want to show off your build, you can join us on the official EctoLabs Facebook group:
 
 [www.facebook.com/groups/ectolabs](https://www.facebook.com/groups/ectolabs)<br /><br />
