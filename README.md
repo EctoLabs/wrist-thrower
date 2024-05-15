@@ -10,7 +10,7 @@ These file are intended to be used in conjunction with as many real-world parts 
 
 ## Build Guide
 <details>
-  <summary><strong>Hello</strong></summary>
+  <summary>&nbsp;&nbsp;<strong>Hello</strong></summary>
   World!
 </details><br/>
 
