@@ -14,7 +14,7 @@ These file are intended to be used in conjunction with as many real-world parts 
   
   ### Heading
   1. Foo
-</details>
+</details>\
 <br/><br/>
 ## Credits
 Original 3D CAD models by Dave Tremaine @ EctoLabs.\
