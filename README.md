@@ -12,7 +12,7 @@ These file are intended to be used in conjunction with as many real-world parts 
 <details open>
   <summary>Hello</summary>
   World!
-</details>
+</details><br/>
 
 ## Credits
 Original 3D CAD models by Dave Tremaine @ EctoLabs.\
