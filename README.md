@@ -9,7 +9,7 @@ All the essential 3D (.stl) files required to build your own deluxe Wrist Throwe
 These file are intended to be used in conjunction with as many real-world parts as possible to create a deluxe replica as close to the original movie prop as possible. Therefore, only the main elements of the thrower body, shroud and mini-cyclotron are included here. Please refer to the Build Guide section below for everything else you need to complete the build.<br/><br/>
 
 ## How to download the files
-Simply click on the green 'CODE' button at the top of the page and then select 'Download ZIP' to download all of the .stl files to your computer in one single package.<br/><br/>
+Simply click on the green '<> Code' button at the top of the page and then select 'Download ZIP' to download all of the .stl files to your computer in one single package.<br/><br/>
 
 ## Print Settings
 We recommend printing each model using the default orientation set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, <strong>disabling</strong> the 'Support interface' option will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
