@@ -8,7 +8,7 @@ All the essential 3D (.stl) files required to build your own deluxe Wrist Throwe
 ## What's included
 These file are intended to be used in conjunction with as many real-world parts as possible to create a deluxe replica as close to the original movie prop as possible. Therefore, only the main elements of the thrower body, shroud and mini-cyclotron are included here. Please refer to the Build Guide section below for everything else you need to complete the build.<br/><br/>
 
-## How to download the files
+## How to download
 Simply [click here](https://github.com/EctoLabs/wrist-thrower/archive/refs/heads/main.zip) to download all of the .stl files to your computer as a single ZIP.<br/><br/>
 
 ## Print settings
