@@ -15,7 +15,9 @@ Simply [click here](https://github.com/EctoLabs/wrist-thrower/archive/refs/heads
 We recommend printing each model using the default orientation set in each file. We used a layer height of 0.3mm with a brim to help with adhesion to the print bed and to prevent any lifting. For any models that have overhang or hollow sections, be sure to add support material. If using Cura, <strong>disabling</strong> the 'Support interface' option will make removing the support material much easier. The 'body_main.stl' model, for example, will generate A LOT of support material but this can be removed by using pliers and pulling out sections bit by bit.<br /><br />
 
 ## Build guide & shopping list
-Coming soon...<br /><br />
+A complete guide on building your own Wrist Thrower using the files supplied here is now available on the GBFans forum. This also includes an exhaustive list of everything you need, including exclusive details on various screen-accurate items used on the original movie prop:
+
+[www.gbfans.com/forum/viewtopic.php?p=4997953](https://www.gbfans.com/forum/viewtopic.php?p=4997953)<br /><br />
 
 ## Help and support
 If you have any questions, or simply want to show off your build, you can join us on the official EctoLabs Facebook group:
